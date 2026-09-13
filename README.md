@@ -4,7 +4,7 @@
 
 ## Portfolio
 
-📄 [포트폴리오 PDF 보기](./HyeYoon_Jeong_Portfolio.pdf)
+📄 [포트폴리오 PDF 보기](./포트폴리오.pdf)
 
 ## Featured Projects
 
