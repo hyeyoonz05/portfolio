@@ -6,6 +6,14 @@
 
 📄 [포트폴리오 PDF 보기](./포트폴리오.pdf)
 
+## 이력서
+
+📄 [이력서 보기](./이력서(국문).pdf)
+
+## Resume
+
+📄 [Resume](./Resume.pdf)
+
 ## Featured Projects
 
 - Kubernetes 기반 Open5GS 5G Core 장애 분석
